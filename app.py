@@ -5,7 +5,7 @@ import numpy as np
 from performance import DEFAULTS, calculate_performance
 
 st.set_page_config(page_title="Aircraft Performance Explorer", page_icon="✈️", layout="wide")
-st.title("✈️ Aircraft Performance Explorer")
+st.title("✈️ Aircraft Performance Explorer - Mohona, 1MS24AS031")
 st.caption("Interactive aircraft performance calculations and plots. Equations and assumptions are preserved from the supplied script.")
 
 with st.sidebar:
